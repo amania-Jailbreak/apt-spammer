@@ -1,0 +1,3499 @@
+{
+    "StartTime": 6.677,
+    "EndTime": 167.796,
+    "Type": "Syllable",
+    "Content": [
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 6.677,
+              "EndTime": 7.066
+            },
+            {
+              "Text": "파트",
+              "IsPartOfWord": false,
+              "StartTime": 7.066,
+              "EndTime": 7.439
+            },
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 7.439,
+              "EndTime": 7.646
+            },
+            {
+              "Text": "파",
+              "IsPartOfWord": true,
+              "StartTime": 7.646,
+              "EndTime": 7.827
+            },
+            {
+              "Text": "트",
+              "IsPartOfWord": false,
+              "StartTime": 7.827,
+              "EndTime": 8.24
+            }
+          ],
+          "StartTime": 6.677,
+          "EndTime": 8.24
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 8.24,
+              "EndTime": 8.629
+            },
+            {
+              "Text": "파트",
+              "IsPartOfWord": false,
+              "StartTime": 8.629,
+              "EndTime": 9.002
+            },
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 9.002,
+              "EndTime": 9.209
+            },
+            {
+              "Text": "파",
+              "IsPartOfWord": true,
+              "StartTime": 9.209,
+              "EndTime": 9.39
+            },
+            {
+              "Text": "트",
+              "IsPartOfWord": false,
+              "StartTime": 9.39,
+              "EndTime": 9.882
+            }
+          ],
+          "StartTime": 8.24,
+          "EndTime": 9.882
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 9.882,
+              "EndTime": 10.271
+            },
+            {
+              "Text": "파트",
+              "IsPartOfWord": false,
+              "StartTime": 10.271,
+              "EndTime": 10.644
+            },
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 10.644,
+              "EndTime": 10.850999999999999
+            },
+            {
+              "Text": "파",
+              "IsPartOfWord": true,
+              "StartTime": 10.850999999999999,
+              "EndTime": 11.032
+            },
+            {
+              "Text": "트",
+              "IsPartOfWord": false,
+              "StartTime": 11.032,
+              "EndTime": 11.485
+            }
+          ],
+          "StartTime": 9.882,
+          "EndTime": 11.485
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "Uh,",
+              "IsPartOfWord": false,
+              "StartTime": 11.485,
+              "EndTime": 11.992
+            },
+            {
+              "Text": "uh-",
+              "IsPartOfWord": true,
+              "StartTime": 12.115,
+              "EndTime": 12.331
+            },
+            {
+              "Text": "huh,",
+              "IsPartOfWord": false,
+              "StartTime": 12.331,
+              "EndTime": 12.528
+            },
+            {
+              "Text": "uh-",
+              "IsPartOfWord": true,
+              "StartTime": 12.528,
+              "EndTime": 12.739
+            },
+            {
+              "Text": "huh",
+              "IsPartOfWord": false,
+              "StartTime": 12.739,
+              "EndTime": 13.117
+            }
+          ],
+          "StartTime": 11.485,
+          "EndTime": 13.117
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 13.117,
+              "EndTime": 13.506
+            },
+            {
+              "Text": "파트",
+              "IsPartOfWord": false,
+              "StartTime": 13.506,
+              "EndTime": 13.879
+            },
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 13.879,
+              "EndTime": 14.086
+            },
+            {
+              "Text": "파",
+              "IsPartOfWord": true,
+              "StartTime": 14.086,
+              "EndTime": 14.267
+            },
+            {
+              "Text": "트",
+              "IsPartOfWord": false,
+              "StartTime": 14.267,
+              "EndTime": 14.724
+            }
+          ],
+          "StartTime": 13.117,
+          "EndTime": 14.724
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 14.724,
+              "EndTime": 15.113
+            },
+            {
+              "Text": "파트",
+              "IsPartOfWord": false,
+              "StartTime": 15.113,
+              "EndTime": 15.486
+            },
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 15.486,
+              "EndTime": 15.693
+            },
+            {
+              "Text": "파",
+              "IsPartOfWord": true,
+              "StartTime": 15.693,
+              "EndTime": 15.874
+            },
+            {
+              "Text": "트",
+              "IsPartOfWord": false,
+              "StartTime": 15.874,
+              "EndTime": 16.309
+            }
+          ],
+          "StartTime": 14.724,
+          "EndTime": 16.309
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 16.309,
+              "EndTime": 16.698
+            },
+            {
+              "Text": "파트",
+              "IsPartOfWord": false,
+              "StartTime": 16.698,
+              "EndTime": 17.071
+            },
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 17.071,
+              "EndTime": 17.278
+            },
+            {
+              "Text": "파",
+              "IsPartOfWord": true,
+              "StartTime": 17.278,
+              "EndTime": 17.459
+            },
+            {
+              "Text": "트",
+              "IsPartOfWord": false,
+              "StartTime": 17.459,
+              "EndTime": 17.912
+            }
+          ],
+          "StartTime": 16.309,
+          "EndTime": 17.912
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "Uh,",
+              "IsPartOfWord": false,
+              "StartTime": 17.912,
+              "EndTime": 18.419
+            },
+            {
+              "Text": "uh-",
+              "IsPartOfWord": true,
+              "StartTime": 18.542,
+              "EndTime": 18.758
+            },
+            {
+              "Text": "huh,",
+              "IsPartOfWord": false,
+              "StartTime": 18.758,
+              "EndTime": 18.955
+            },
+            {
+              "Text": "uh-",
+              "IsPartOfWord": true,
+              "StartTime": 18.955,
+              "EndTime": 19.166
+            },
+            {
+              "Text": "huh",
+              "IsPartOfWord": false,
+              "StartTime": 19.166,
+              "EndTime": 19.54
+            }
+          ],
+          "StartTime": 17.912,
+          "EndTime": 19.54
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "Kissy",
+              "IsPartOfWord": false,
+              "StartTime": 19.54,
+              "EndTime": 19.951
+            },
+            {
+              "Text": "face,",
+              "IsPartOfWord": false,
+              "StartTime": 19.951,
+              "EndTime": 20.361
+            },
+            {
+              "Text": "kissy",
+              "IsPartOfWord": false,
+              "StartTime": 20.361,
+              "EndTime": 20.772
+            },
+            {
+              "Text": "face",
+              "IsPartOfWord": false,
+              "StartTime": 20.772,
+              "EndTime": 21.182
+            }
+          ],
+          "StartTime": 19.54,
+          "EndTime": 21.182
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "Sent",
+              "IsPartOfWord": false,
+              "StartTime": 21.182,
+              "EndTime": 21.422
+            },
+            {
+              "Text": "to",
+              "IsPartOfWord": false,
+              "StartTime": 21.422,
+              "EndTime": 21.542
+            },
+            {
+              "Text": "your",
+              "IsPartOfWord": false,
+              "StartTime": 21.542,
+              "EndTime": 21.701999999999998
+            },
+            {
+              "Text": "phone",
+              "IsPartOfWord": false,
+              "StartTime": 21.701999999999998,
+              "EndTime": 22.358
+            },
+            {
+              "Text": "but",
+              "IsPartOfWord": false,
+              "StartTime": 22.358,
+              "EndTime": 22.794
+            }
+          ],
+          "StartTime": 21.182,
+          "EndTime": 22.794
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "I'm",
+              "IsPartOfWord": false,
+              "StartTime": 22.929,
+              "EndTime": 23.141
+            },
+            {
+              "Text": "trying",
+              "IsPartOfWord": false,
+              "StartTime": 23.141,
+              "EndTime": 23.402
+            },
+            {
+              "Text": "to",
+              "IsPartOfWord": false,
+              "StartTime": 23.402,
+              "EndTime": 23.546
+            },
+            {
+              "Text": "kiss",
+              "IsPartOfWord": false,
+              "StartTime": 23.546,
+              "EndTime": 23.802
+            },
+            {
+              "Text": "your",
+              "IsPartOfWord": false,
+              "StartTime": 23.802,
+              "EndTime": 23.96
+            },
+            {
+              "Text": "lips",
+              "IsPartOfWord": false,
+              "StartTime": 23.96,
+              "EndTime": 24.207
+            },
+            {
+              "Text": "for",
+              "IsPartOfWord": false,
+              "StartTime": 24.207,
+              "EndTime": 24.405
+            },
+            {
+              "Text": "real",
+              "IsPartOfWord": false,
+              "StartTime": 24.405,
+              "EndTime": 24.835
+            }
+          ],
+          "StartTime": 22.929,
+          "EndTime": 24.835
+        },
+        "Background": [
+          {
+            "Syllables": [
+              {
+                "Text": "Uh-",
+                "IsPartOfWord": true,
+                "StartTime": 24.955,
+                "EndTime": 25.185
+              },
+              {
+                "Text": "huh,",
+                "IsPartOfWord": false,
+                "StartTime": 25.185,
+                "EndTime": 25.402
+              },
+              {
+                "Text": "uh-",
+                "IsPartOfWord": true,
+                "StartTime": 25.402,
+                "EndTime": 25.619
+              },
+              {
+                "Text": "huh",
+                "IsPartOfWord": false,
+                "StartTime": 25.619,
+                "EndTime": 25.973
+              }
+            ],
+            "StartTime": 24.955,
+            "EndTime": 25.973
+          }
+        ]
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "Red",
+              "IsPartOfWord": false,
+              "StartTime": 25.973,
+              "EndTime": 26.376
+            },
+            {
+              "Text": "hearts,",
+              "IsPartOfWord": false,
+              "StartTime": 26.376,
+              "EndTime": 26.779
+            },
+            {
+              "Text": "red",
+              "IsPartOfWord": false,
+              "StartTime": 26.779,
+              "EndTime": 27.181
+            },
+            {
+              "Text": "hearts",
+              "IsPartOfWord": false,
+              "StartTime": 27.181,
+              "EndTime": 27.584
+            }
+          ],
+          "StartTime": 25.973,
+          "EndTime": 27.584
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "That's",
+              "IsPartOfWord": false,
+              "StartTime": 27.584,
+              "EndTime": 27.853
+            },
+            {
+              "Text": "what",
+              "IsPartOfWord": false,
+              "StartTime": 27.853,
+              "EndTime": 28.061
+            },
+            {
+              "Text": "I'm",
+              "IsPartOfWord": false,
+              "StartTime": 28.061,
+              "EndTime": 28.261
+            },
+            {
+              "Text": "on,",
+              "IsPartOfWord": false,
+              "StartTime": 28.261,
+              "EndTime": 28.784
+            },
+            {
+              "Text": "yeah",
+              "IsPartOfWord": false,
+              "StartTime": 28.784,
+              "EndTime": 29.235
+            }
+          ],
+          "StartTime": 27.584,
+          "EndTime": 29.235
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "Come",
+              "IsPartOfWord": false,
+              "StartTime": 29.381,
+              "EndTime": 29.638
+            },
+            {
+              "Text": "give",
+              "IsPartOfWord": false,
+              "StartTime": 29.638,
+              "EndTime": 29.86
+            },
+            {
+              "Text": "me",
+              "IsPartOfWord": false,
+              "StartTime": 29.86,
+              "EndTime": 30
+            },
+            {
+              "Text": "something",
+              "IsPartOfWord": false,
+              "StartTime": 30,
+              "EndTime": 30.464
+            },
+            {
+              "Text": "I",
+              "IsPartOfWord": false,
+              "StartTime": 30.464,
+              "EndTime": 30.643
+            },
+            {
+              "Text": "can",
+              "IsPartOfWord": false,
+              "StartTime": 30.643,
+              "EndTime": 30.819
+            },
+            {
+              "Text": "feel",
+              "IsPartOfWord": false,
+              "StartTime": 30.819,
+              "EndTime": 31.208
+            }
+          ],
+          "StartTime": 29.381,
+          "EndTime": 31.208
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "Oh,",
+              "IsPartOfWord": false,
+              "StartTime": 31.208,
+              "EndTime": 31.435
+            },
+            {
+              "Text": "oh,",
+              "IsPartOfWord": false,
+              "StartTime": 31.435,
+              "EndTime": 31.835
+            },
+            {
+              "Text": "oh",
+              "IsPartOfWord": false,
+              "StartTime": 31.835,
+              "EndTime": 32.43
+            }
+          ],
+          "StartTime": 31.208,
+          "EndTime": 32.43
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "Don't",
+              "IsPartOfWord": false,
+              "StartTime": 32.43,
+              "EndTime": 32.865
+            },
+            {
+              "Text": "you",
+              "IsPartOfWord": false,
+              "StartTime": 32.865,
+              "EndTime": 33.094
+            },
+            {
+              "Text": "want",
+              "IsPartOfWord": false,
+              "StartTime": 33.094,
+              "EndTime": 33.457
+            },
+            {
+              "Text": "me",
+              "IsPartOfWord": false,
+              "StartTime": 33.457,
+              "EndTime": 33.654
+            },
+            {
+              "Text": "like",
+              "IsPartOfWord": false,
+              "StartTime": 33.654,
+              "EndTime": 33.841
+            },
+            {
+              "Text": "I",
+              "IsPartOfWord": false,
+              "StartTime": 33.841,
+              "EndTime": 34.059
+            },
+            {
+              "Text": "want",
+              "IsPartOfWord": false,
+              "StartTime": 34.059,
+              "EndTime": 34.44
+            },
+            {
+              "Text": "you,",
+              "IsPartOfWord": false,
+              "StartTime": 34.44,
+              "EndTime": 34.843
+            },
+            {
+              "Text": "baby?",
+              "IsPartOfWord": false,
+              "StartTime": 34.843,
+              "EndTime": 35.661
+            }
+          ],
+          "StartTime": 32.43,
+          "EndTime": 35.661
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "Don't",
+              "IsPartOfWord": false,
+              "StartTime": 35.661,
+              "EndTime": 36.074
+            },
+            {
+              "Text": "you",
+              "IsPartOfWord": false,
+              "StartTime": 36.074,
+              "EndTime": 36.287
+            },
+            {
+              "Text": "need",
+              "IsPartOfWord": false,
+              "StartTime": 36.287,
+              "EndTime": 36.615
+            },
+            {
+              "Text": "me",
+              "IsPartOfWord": false,
+              "StartTime": 36.615,
+              "EndTime": 36.849
+            },
+            {
+              "Text": "like",
+              "IsPartOfWord": false,
+              "StartTime": 36.849,
+              "EndTime": 37.081
+            },
+            {
+              "Text": "I",
+              "IsPartOfWord": false,
+              "StartTime": 37.081,
+              "EndTime": 37.283
+            },
+            {
+              "Text": "need",
+              "IsPartOfWord": false,
+              "StartTime": 37.283,
+              "EndTime": 37.659
+            },
+            {
+              "Text": "you",
+              "IsPartOfWord": false,
+              "StartTime": 37.659,
+              "EndTime": 38.093
+            },
+            {
+              "Text": "now?",
+              "IsPartOfWord": false,
+              "StartTime": 38.093,
+              "EndTime": 38.671
+            }
+          ],
+          "StartTime": 35.661,
+          "EndTime": 38.671
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "Sleep",
+              "IsPartOfWord": false,
+              "StartTime": 38.776,
+              "EndTime": 39.279
+            },
+            {
+              "Text": "tomorrow",
+              "IsPartOfWord": false,
+              "StartTime": 39.279,
+              "EndTime": 40.08
+            },
+            {
+              "Text": "but",
+              "IsPartOfWord": false,
+              "StartTime": 40.08,
+              "EndTime": 40.285
+            },
+            {
+              "Text": "tonight",
+              "IsPartOfWord": false,
+              "StartTime": 40.285,
+              "EndTime": 40.856
+            },
+            {
+              "Text": "go",
+              "IsPartOfWord": false,
+              "StartTime": 40.856,
+              "EndTime": 41.229
+            },
+            {
+              "Text": "cra",
+              "IsPartOfWord": true,
+              "StartTime": 41.229,
+              "EndTime": 41.674
+            },
+            {
+              "Text": "zy",
+              "IsPartOfWord": false,
+              "StartTime": 41.674,
+              "EndTime": 42.119
+            }
+          ],
+          "StartTime": 38.776,
+          "EndTime": 42.119
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "All",
+              "IsPartOfWord": false,
+              "StartTime": 42.119,
+              "EndTime": 42.31
+            },
+            {
+              "Text": "you",
+              "IsPartOfWord": false,
+              "StartTime": 42.31,
+              "EndTime": 42.519
+            },
+            {
+              "Text": "gotta",
+              "IsPartOfWord": false,
+              "StartTime": 42.519,
+              "EndTime": 42.871
+            },
+            {
+              "Text": "do",
+              "IsPartOfWord": false,
+              "StartTime": 42.871,
+              "EndTime": 43.191
+            },
+            {
+              "Text": "is",
+              "IsPartOfWord": false,
+              "StartTime": 43.191,
+              "EndTime": 43.35
+            },
+            {
+              "Text": "just",
+              "IsPartOfWord": false,
+              "StartTime": 43.35,
+              "EndTime": 43.718
+            },
+            {
+              "Text": "meet",
+              "IsPartOfWord": false,
+              "StartTime": 43.718,
+              "EndTime": 44.129
+            },
+            {
+              "Text": "me",
+              "IsPartOfWord": false,
+              "StartTime": 44.129,
+              "EndTime": 44.564
+            },
+            {
+              "Text": "at",
+              "IsPartOfWord": false,
+              "StartTime": 44.564,
+              "EndTime": 44.956
+            },
+            {
+              "Text": "the",
+              "IsPartOfWord": false,
+              "StartTime": 44.956,
+              "EndTime": 45.355
+            }
+          ],
+          "StartTime": 42.119,
+          "EndTime": 45.355
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 45.355,
+              "EndTime": 45.744
+            },
+            {
+              "Text": "파트",
+              "IsPartOfWord": false,
+              "StartTime": 45.744,
+              "EndTime": 46.117
+            },
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 46.117,
+              "EndTime": 46.324
+            },
+            {
+              "Text": "파",
+              "IsPartOfWord": true,
+              "StartTime": 46.324,
+              "EndTime": 46.505
+            },
+            {
+              "Text": "트",
+              "IsPartOfWord": false,
+              "StartTime": 46.505,
+              "EndTime": 46.916
+            }
+          ],
+          "StartTime": 45.355,
+          "EndTime": 46.916
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 46.916,
+              "EndTime": 47.305
+            },
+            {
+              "Text": "파트",
+              "IsPartOfWord": false,
+              "StartTime": 47.305,
+              "EndTime": 47.678
+            },
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 47.678,
+              "EndTime": 47.885
+            },
+            {
+              "Text": "파",
+              "IsPartOfWord": true,
+              "StartTime": 47.885,
+              "EndTime": 48.066
+            },
+            {
+              "Text": "트",
+              "IsPartOfWord": false,
+              "StartTime": 48.066,
+              "EndTime": 48.55
+            }
+          ],
+          "StartTime": 46.916,
+          "EndTime": 48.55
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 48.55,
+              "EndTime": 48.939
+            },
+            {
+              "Text": "파트",
+              "IsPartOfWord": false,
+              "StartTime": 48.939,
+              "EndTime": 49.312
+            },
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 49.312,
+              "EndTime": 49.519
+            },
+            {
+              "Text": "파",
+              "IsPartOfWord": true,
+              "StartTime": 49.519,
+              "EndTime": 49.7
+            },
+            {
+              "Text": "트",
+              "IsPartOfWord": false,
+              "StartTime": 49.7,
+              "EndTime": 50.161
+            }
+          ],
+          "StartTime": 48.55,
+          "EndTime": 50.161
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "Uh,",
+              "IsPartOfWord": false,
+              "StartTime": 50.161,
+              "EndTime": 50.668
+            },
+            {
+              "Text": "uh-",
+              "IsPartOfWord": true,
+              "StartTime": 50.791,
+              "EndTime": 51.007
+            },
+            {
+              "Text": "huh,",
+              "IsPartOfWord": false,
+              "StartTime": 51.007,
+              "EndTime": 51.204
+            },
+            {
+              "Text": "uh-",
+              "IsPartOfWord": true,
+              "StartTime": 51.204,
+              "EndTime": 51.415
+            },
+            {
+              "Text": "huh",
+              "IsPartOfWord": false,
+              "StartTime": 51.415,
+              "EndTime": 51.79
+            }
+          ],
+          "StartTime": 50.161,
+          "EndTime": 51.79
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 51.79,
+              "EndTime": 52.179
+            },
+            {
+              "Text": "파트",
+              "IsPartOfWord": false,
+              "StartTime": 52.179,
+              "EndTime": 52.552
+            },
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 52.552,
+              "EndTime": 52.759
+            },
+            {
+              "Text": "파",
+              "IsPartOfWord": true,
+              "StartTime": 52.759,
+              "EndTime": 52.94
+            },
+            {
+              "Text": "트",
+              "IsPartOfWord": false,
+              "StartTime": 52.94,
+              "EndTime": 53.372
+            }
+          ],
+          "StartTime": 51.79,
+          "EndTime": 53.372
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 53.372,
+              "EndTime": 53.761
+            },
+            {
+              "Text": "파트",
+              "IsPartOfWord": false,
+              "StartTime": 53.761,
+              "EndTime": 54.134
+            },
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 54.134,
+              "EndTime": 54.341
+            },
+            {
+              "Text": "파",
+              "IsPartOfWord": true,
+              "StartTime": 54.341,
+              "EndTime": 54.522
+            },
+            {
+              "Text": "트",
+              "IsPartOfWord": false,
+              "StartTime": 54.522,
+              "EndTime": 55.005
+            }
+          ],
+          "StartTime": 53.372,
+          "EndTime": 55.005
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 55.005,
+              "EndTime": 55.394
+            },
+            {
+              "Text": "파트",
+              "IsPartOfWord": false,
+              "StartTime": 55.394,
+              "EndTime": 55.767
+            },
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 55.767,
+              "EndTime": 55.974
+            },
+            {
+              "Text": "파",
+              "IsPartOfWord": true,
+              "StartTime": 55.974,
+              "EndTime": 56.155
+            },
+            {
+              "Text": "트",
+              "IsPartOfWord": false,
+              "StartTime": 56.155,
+              "EndTime": 56.576
+            }
+          ],
+          "StartTime": 55.005,
+          "EndTime": 56.576
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "Uh,",
+              "IsPartOfWord": false,
+              "StartTime": 56.576,
+              "EndTime": 57.083
+            },
+            {
+              "Text": "uh-",
+              "IsPartOfWord": true,
+              "StartTime": 57.206,
+              "EndTime": 57.422
+            },
+            {
+              "Text": "huh,",
+              "IsPartOfWord": false,
+              "StartTime": 57.422,
+              "EndTime": 57.619
+            },
+            {
+              "Text": "uh-",
+              "IsPartOfWord": true,
+              "StartTime": 57.619,
+              "EndTime": 57.83
+            },
+            {
+              "Text": "huh",
+              "IsPartOfWord": false,
+              "StartTime": 57.83,
+              "EndTime": 58.208
+            }
+          ],
+          "StartTime": 56.576,
+          "EndTime": 58.208
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": true,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "It's",
+              "IsPartOfWord": false,
+              "StartTime": 57.787,
+              "EndTime": 58.063
+            },
+            {
+              "Text": "what",
+              "IsPartOfWord": true,
+              "StartTime": 58.063,
+              "EndTime": 58.24
+            },
+            {
+              "Text": "ever,",
+              "IsPartOfWord": false,
+              "StartTime": 58.24,
+              "EndTime": 58.601
+            },
+            {
+              "Text": "it's",
+              "IsPartOfWord": false,
+              "StartTime": 58.601,
+              "EndTime": 58.816
+            },
+            {
+              "Text": "what",
+              "IsPartOfWord": true,
+              "StartTime": 58.816,
+              "EndTime": 59.017
+            },
+            {
+              "Text": "ever,",
+              "IsPartOfWord": false,
+              "StartTime": 59.017,
+              "EndTime": 59.432
+            },
+            {
+              "Text": "it's",
+              "IsPartOfWord": false,
+              "StartTime": 59.432,
+              "EndTime": 59.625
+            },
+            {
+              "Text": "what",
+              "IsPartOfWord": true,
+              "StartTime": 59.625,
+              "EndTime": 59.826
+            },
+            {
+              "Text": "ever",
+              "IsPartOfWord": false,
+              "StartTime": 59.826,
+              "EndTime": 60.211
+            },
+            {
+              "Text": "you",
+              "IsPartOfWord": false,
+              "StartTime": 60.211,
+              "EndTime": 60.441
+            },
+            {
+              "Text": "like",
+              "IsPartOfWord": false,
+              "StartTime": 60.441,
+              "EndTime": 61.051
+            }
+          ],
+          "StartTime": 57.787,
+          "EndTime": 61.051
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": true,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "Turn",
+              "IsPartOfWord": false,
+              "StartTime": 61.397,
+              "EndTime": 61.671
+            },
+            {
+              "Text": "this",
+              "IsPartOfWord": false,
+              "StartTime": 61.671,
+              "EndTime": 61.905
+            },
+            {
+              "Text": "아파",
+              "IsPartOfWord": true,
+              "StartTime": 61.905,
+              "EndTime": 62.195
+            },
+            {
+              "Text": "트",
+              "IsPartOfWord": false,
+              "StartTime": 62.195,
+              "EndTime": 62.494
+            },
+            {
+              "Text": "Into",
+              "IsPartOfWord": false,
+              "StartTime": 62.494,
+              "EndTime": 62.742
+            },
+            {
+              "Text": "a",
+              "IsPartOfWord": false,
+              "StartTime": 62.742,
+              "EndTime": 63.006
+            },
+            {
+              "Text": "club",
+              "IsPartOfWord": false,
+              "StartTime": 63.006,
+              "EndTime": 63.56
+            }
+          ],
+          "StartTime": 61.397,
+          "EndTime": 63.56
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": true,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "I'm",
+              "IsPartOfWord": false,
+              "StartTime": 63.998,
+              "EndTime": 64.256
+            },
+            {
+              "Text": "talking",
+              "IsPartOfWord": false,
+              "StartTime": 64.256,
+              "EndTime": 64.664
+            },
+            {
+              "Text": "drink,",
+              "IsPartOfWord": false,
+              "StartTime": 64.664,
+              "EndTime": 65.003
+            },
+            {
+              "Text": "dance,",
+              "IsPartOfWord": false,
+              "StartTime": 65.003,
+              "EndTime": 65.395
+            },
+            {
+              "Text": "smoke,",
+              "IsPartOfWord": false,
+              "StartTime": 65.395,
+              "EndTime": 65.75
+            },
+            {
+              "Text": "freak,",
+              "IsPartOfWord": false,
+              "StartTime": 65.75,
+              "EndTime": 66.202
+            },
+            {
+              "Text": "party",
+              "IsPartOfWord": false,
+              "StartTime": 66.202,
+              "EndTime": 66.702
+            },
+            {
+              "Text": "all",
+              "IsPartOfWord": false,
+              "StartTime": 66.702,
+              "EndTime": 66.931
+            },
+            {
+              "Text": "night",
+              "IsPartOfWord": false,
+              "StartTime": 66.931,
+              "EndTime": 67.448
+            }
+          ],
+          "StartTime": 63.998,
+          "EndTime": 67.448
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": true,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "건배",
+              "IsPartOfWord": false,
+              "StartTime": 68.221,
+              "EndTime": 68.696
+            },
+            {
+              "Text": "건배",
+              "IsPartOfWord": false,
+              "StartTime": 68.696,
+              "EndTime": 69.104
+            },
+            {
+              "Text": "Girl,",
+              "IsPartOfWord": false,
+              "StartTime": 69.104,
+              "EndTime": 69.285
+            },
+            {
+              "Text": "what's",
+              "IsPartOfWord": false,
+              "StartTime": 69.285,
+              "EndTime": 69.501
+            },
+            {
+              "Text": "up?",
+              "IsPartOfWord": false,
+              "StartTime": 69.501,
+              "EndTime": 69.885
+            }
+          ],
+          "StartTime": 68.221,
+          "EndTime": 69.885
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": true,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "Oh,",
+              "IsPartOfWord": false,
+              "StartTime": 69.885,
+              "EndTime": 70.112
+            },
+            {
+              "Text": "oh,",
+              "IsPartOfWord": false,
+              "StartTime": 70.112,
+              "EndTime": 70.485
+            },
+            {
+              "Text": "oh",
+              "IsPartOfWord": false,
+              "StartTime": 70.485,
+              "EndTime": 71.107
+            }
+          ],
+          "StartTime": 69.885,
+          "EndTime": 71.107
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": true,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "Don't",
+              "IsPartOfWord": false,
+              "StartTime": 71.029,
+              "EndTime": 71.464
+            },
+            {
+              "Text": "you",
+              "IsPartOfWord": false,
+              "StartTime": 71.464,
+              "EndTime": 71.693
+            },
+            {
+              "Text": "want",
+              "IsPartOfWord": false,
+              "StartTime": 71.693,
+              "EndTime": 72.056
+            },
+            {
+              "Text": "me",
+              "IsPartOfWord": false,
+              "StartTime": 72.056,
+              "EndTime": 72.253
+            },
+            {
+              "Text": "like",
+              "IsPartOfWord": false,
+              "StartTime": 72.253,
+              "EndTime": 72.44
+            },
+            {
+              "Text": "I",
+              "IsPartOfWord": false,
+              "StartTime": 72.44,
+              "EndTime": 72.658
+            },
+            {
+              "Text": "want",
+              "IsPartOfWord": false,
+              "StartTime": 72.658,
+              "EndTime": 73.039
+            },
+            {
+              "Text": "you,",
+              "IsPartOfWord": false,
+              "StartTime": 73.039,
+              "EndTime": 73.442
+            },
+            {
+              "Text": "baby?",
+              "IsPartOfWord": false,
+              "StartTime": 73.442,
+              "EndTime": 74.26
+            }
+          ],
+          "StartTime": 71.029,
+          "EndTime": 74.26
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": true,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "Don't",
+              "IsPartOfWord": false,
+              "StartTime": 74.316,
+              "EndTime": 74.7
+            },
+            {
+              "Text": "you",
+              "IsPartOfWord": false,
+              "StartTime": 74.7,
+              "EndTime": 74.942
+            },
+            {
+              "Text": "need",
+              "IsPartOfWord": false,
+              "StartTime": 74.942,
+              "EndTime": 75.27
+            },
+            {
+              "Text": "me",
+              "IsPartOfWord": false,
+              "StartTime": 75.27,
+              "EndTime": 75.504
+            },
+            {
+              "Text": "like",
+              "IsPartOfWord": false,
+              "StartTime": 75.504,
+              "EndTime": 75.736
+            },
+            {
+              "Text": "I",
+              "IsPartOfWord": false,
+              "StartTime": 75.736,
+              "EndTime": 75.938
+            },
+            {
+              "Text": "need",
+              "IsPartOfWord": false,
+              "StartTime": 75.938,
+              "EndTime": 76.333
+            },
+            {
+              "Text": "you",
+              "IsPartOfWord": false,
+              "StartTime": 76.333,
+              "EndTime": 76.728
+            },
+            {
+              "Text": "now?",
+              "IsPartOfWord": false,
+              "StartTime": 76.728,
+              "EndTime": 77.303
+            }
+          ],
+          "StartTime": 74.316,
+          "EndTime": 77.303
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": true,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "Sleep",
+              "IsPartOfWord": false,
+              "StartTime": 77.385,
+              "EndTime": 77.888
+            },
+            {
+              "Text": "tomorrow",
+              "IsPartOfWord": false,
+              "StartTime": 77.888,
+              "EndTime": 78.689
+            },
+            {
+              "Text": "but",
+              "IsPartOfWord": false,
+              "StartTime": 78.689,
+              "EndTime": 78.894
+            },
+            {
+              "Text": "tonight",
+              "IsPartOfWord": false,
+              "StartTime": 78.894,
+              "EndTime": 79.511
+            },
+            {
+              "Text": "go",
+              "IsPartOfWord": false,
+              "StartTime": 79.511,
+              "EndTime": 79.898
+            },
+            {
+              "Text": "cra",
+              "IsPartOfWord": true,
+              "StartTime": 79.898,
+              "EndTime": 80.322
+            },
+            {
+              "Text": "zy",
+              "IsPartOfWord": false,
+              "StartTime": 80.322,
+              "EndTime": 80.728
+            }
+          ],
+          "StartTime": 77.385,
+          "EndTime": 80.728
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": true,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "All",
+              "IsPartOfWord": false,
+              "StartTime": 80.736,
+              "EndTime": 80.927
+            },
+            {
+              "Text": "you",
+              "IsPartOfWord": false,
+              "StartTime": 80.927,
+              "EndTime": 81.136
+            },
+            {
+              "Text": "gotta",
+              "IsPartOfWord": false,
+              "StartTime": 81.136,
+              "EndTime": 81.488
+            },
+            {
+              "Text": "do",
+              "IsPartOfWord": false,
+              "StartTime": 81.488,
+              "EndTime": 81.808
+            },
+            {
+              "Text": "is",
+              "IsPartOfWord": false,
+              "StartTime": 81.808,
+              "EndTime": 81.967
+            },
+            {
+              "Text": "just",
+              "IsPartOfWord": false,
+              "StartTime": 81.967,
+              "EndTime": 82.335
+            },
+            {
+              "Text": "meet",
+              "IsPartOfWord": false,
+              "StartTime": 82.335,
+              "EndTime": 82.746
+            },
+            {
+              "Text": "me",
+              "IsPartOfWord": false,
+              "StartTime": 82.746,
+              "EndTime": 83.181
+            },
+            {
+              "Text": "at",
+              "IsPartOfWord": false,
+              "StartTime": 83.181,
+              "EndTime": 83.573
+            },
+            {
+              "Text": "the",
+              "IsPartOfWord": false,
+              "StartTime": 83.573,
+              "EndTime": 83.972
+            }
+          ],
+          "StartTime": 80.736,
+          "EndTime": 83.972
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 83.991,
+              "EndTime": 84.38
+            },
+            {
+              "Text": "파트",
+              "IsPartOfWord": false,
+              "StartTime": 84.38,
+              "EndTime": 84.753
+            },
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 84.753,
+              "EndTime": 84.96
+            },
+            {
+              "Text": "파",
+              "IsPartOfWord": true,
+              "StartTime": 84.96,
+              "EndTime": 85.141
+            },
+            {
+              "Text": "트",
+              "IsPartOfWord": false,
+              "StartTime": 85.141,
+              "EndTime": 85.554
+            }
+          ],
+          "StartTime": 83.991,
+          "EndTime": 85.554
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 85.551,
+              "EndTime": 85.94
+            },
+            {
+              "Text": "파트",
+              "IsPartOfWord": false,
+              "StartTime": 85.94,
+              "EndTime": 86.313
+            },
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 86.313,
+              "EndTime": 86.52
+            },
+            {
+              "Text": "파",
+              "IsPartOfWord": true,
+              "StartTime": 86.52,
+              "EndTime": 86.701
+            },
+            {
+              "Text": "트",
+              "IsPartOfWord": false,
+              "StartTime": 86.701,
+              "EndTime": 87.114
+            }
+          ],
+          "StartTime": 85.551,
+          "EndTime": 87.114
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 87.2,
+              "EndTime": 87.589
+            },
+            {
+              "Text": "파트",
+              "IsPartOfWord": false,
+              "StartTime": 87.589,
+              "EndTime": 87.962
+            },
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 87.962,
+              "EndTime": 88.169
+            },
+            {
+              "Text": "파",
+              "IsPartOfWord": true,
+              "StartTime": 88.169,
+              "EndTime": 88.35
+            },
+            {
+              "Text": "트",
+              "IsPartOfWord": false,
+              "StartTime": 88.35,
+              "EndTime": 88.763
+            }
+          ],
+          "StartTime": 87.2,
+          "EndTime": 88.763
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "Uh,",
+              "IsPartOfWord": false,
+              "StartTime": 88.774,
+              "EndTime": 89.281
+            },
+            {
+              "Text": "uh-",
+              "IsPartOfWord": true,
+              "StartTime": 89.404,
+              "EndTime": 89.62
+            },
+            {
+              "Text": "huh,",
+              "IsPartOfWord": false,
+              "StartTime": 89.62,
+              "EndTime": 89.817
+            },
+            {
+              "Text": "uh-",
+              "IsPartOfWord": true,
+              "StartTime": 89.817,
+              "EndTime": 90.028
+            },
+            {
+              "Text": "huh",
+              "IsPartOfWord": false,
+              "StartTime": 90.028,
+              "EndTime": 90.406
+            }
+          ],
+          "StartTime": 88.774,
+          "EndTime": 90.406
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 90.422,
+              "EndTime": 90.811
+            },
+            {
+              "Text": "파트",
+              "IsPartOfWord": false,
+              "StartTime": 90.811,
+              "EndTime": 91.184
+            },
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 91.184,
+              "EndTime": 91.391
+            },
+            {
+              "Text": "파",
+              "IsPartOfWord": true,
+              "StartTime": 91.391,
+              "EndTime": 91.572
+            },
+            {
+              "Text": "트",
+              "IsPartOfWord": false,
+              "StartTime": 91.572,
+              "EndTime": 91.985
+            }
+          ],
+          "StartTime": 90.422,
+          "EndTime": 91.985
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 92.046,
+              "EndTime": 92.435
+            },
+            {
+              "Text": "파트",
+              "IsPartOfWord": false,
+              "StartTime": 92.435,
+              "EndTime": 92.808
+            },
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 92.808,
+              "EndTime": 93.015
+            },
+            {
+              "Text": "파",
+              "IsPartOfWord": true,
+              "StartTime": 93.015,
+              "EndTime": 93.196
+            },
+            {
+              "Text": "트",
+              "IsPartOfWord": false,
+              "StartTime": 93.196,
+              "EndTime": 93.609
+            }
+          ],
+          "StartTime": 92.046,
+          "EndTime": 93.609
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 93.633,
+              "EndTime": 94.022
+            },
+            {
+              "Text": "파트",
+              "IsPartOfWord": false,
+              "StartTime": 94.022,
+              "EndTime": 94.395
+            },
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 94.395,
+              "EndTime": 94.602
+            },
+            {
+              "Text": "파",
+              "IsPartOfWord": true,
+              "StartTime": 94.602,
+              "EndTime": 94.783
+            },
+            {
+              "Text": "트",
+              "IsPartOfWord": false,
+              "StartTime": 94.783,
+              "EndTime": 95.196
+            }
+          ],
+          "StartTime": 93.633,
+          "EndTime": 95.196
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "Uh,",
+              "IsPartOfWord": false,
+              "StartTime": 95.254,
+              "EndTime": 95.761
+            },
+            {
+              "Text": "uh-",
+              "IsPartOfWord": true,
+              "StartTime": 95.884,
+              "EndTime": 96.1
+            },
+            {
+              "Text": "huh,",
+              "IsPartOfWord": false,
+              "StartTime": 96.1,
+              "EndTime": 96.297
+            },
+            {
+              "Text": "uh-",
+              "IsPartOfWord": true,
+              "StartTime": 96.297,
+              "EndTime": 96.508
+            },
+            {
+              "Text": "huh",
+              "IsPartOfWord": false,
+              "StartTime": 96.508,
+              "EndTime": 96.886
+            }
+          ],
+          "StartTime": 95.254,
+          "EndTime": 96.886
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "Hey,",
+              "IsPartOfWord": false,
+              "StartTime": 96.822,
+              "EndTime": 97.333
+            },
+            {
+              "Text": "so",
+              "IsPartOfWord": false,
+              "StartTime": 97.873,
+              "EndTime": 98.064
+            },
+            {
+              "Text": "now",
+              "IsPartOfWord": false,
+              "StartTime": 98.064,
+              "EndTime": 98.275
+            },
+            {
+              "Text": "you",
+              "IsPartOfWord": false,
+              "StartTime": 98.275,
+              "EndTime": 98.407
+            },
+            {
+              "Text": "know",
+              "IsPartOfWord": false,
+              "StartTime": 98.407,
+              "EndTime": 98.53
+            },
+            {
+              "Text": "the",
+              "IsPartOfWord": false,
+              "StartTime": 98.53,
+              "EndTime": 98.63
+            },
+            {
+              "Text": "game",
+              "IsPartOfWord": false,
+              "StartTime": 98.63,
+              "EndTime": 99.195
+            }
+          ],
+          "StartTime": 96.822,
+          "EndTime": 99.195
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "Are",
+              "IsPartOfWord": false,
+              "StartTime": 99.876,
+              "EndTime": 100.02
+            },
+            {
+              "Text": "you",
+              "IsPartOfWord": false,
+              "StartTime": 100.02,
+              "EndTime": 100.157
+            },
+            {
+              "Text": "rea",
+              "IsPartOfWord": true,
+              "StartTime": 100.157,
+              "EndTime": 100.348
+            },
+            {
+              "Text": "dy?",
+              "IsPartOfWord": false,
+              "StartTime": 100.348,
+              "EndTime": 100.734
+            }
+          ],
+          "StartTime": 99.876,
+          "EndTime": 100.734
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "'Cause",
+              "IsPartOfWord": false,
+              "StartTime": 100.993,
+              "EndTime": 101.169
+            },
+            {
+              "Text": "I'm",
+              "IsPartOfWord": false,
+              "StartTime": 101.169,
+              "EndTime": 101.358
+            },
+            {
+              "Text": "comin",
+              "IsPartOfWord": false,
+              "StartTime": 101.358,
+              "EndTime": 101.562
+            },
+            {
+              "Text": "to",
+              "IsPartOfWord": false,
+              "StartTime": 101.562,
+              "EndTime": 101.681
+            },
+            {
+              "Text": "get",
+              "IsPartOfWord": false,
+              "StartTime": 101.681,
+              "EndTime": 101.892
+            },
+            {
+              "Text": "ya",
+              "IsPartOfWord": false,
+              "StartTime": 101.892,
+              "EndTime": 102.297
+            }
+          ],
+          "StartTime": 100.993,
+          "EndTime": 102.297
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "Get",
+              "IsPartOfWord": false,
+              "StartTime": 102.455,
+              "EndTime": 102.67
+            },
+            {
+              "Text": "ya,",
+              "IsPartOfWord": false,
+              "StartTime": 102.67,
+              "EndTime": 102.885
+            },
+            {
+              "Text": "get",
+              "IsPartOfWord": false,
+              "StartTime": 102.885,
+              "EndTime": 103.1
+            },
+            {
+              "Text": "ya",
+              "IsPartOfWord": false,
+              "StartTime": 103.1,
+              "EndTime": 103.315
+            }
+          ],
+          "StartTime": 102.455,
+          "EndTime": 103.315
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "Hold",
+              "IsPartOfWord": false,
+              "StartTime": 103.315,
+              "EndTime": 103.707
+            },
+            {
+              "Text": "on,",
+              "IsPartOfWord": false,
+              "StartTime": 103.707,
+              "EndTime": 104.218
+            },
+            {
+              "Text": "hold",
+              "IsPartOfWord": false,
+              "StartTime": 104.52,
+              "EndTime": 104.944
+            },
+            {
+              "Text": "on",
+              "IsPartOfWord": false,
+              "StartTime": 104.944,
+              "EndTime": 105.537
+            }
+          ],
+          "StartTime": 103.315,
+          "EndTime": 105.537
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "I'm",
+              "IsPartOfWord": false,
+              "StartTime": 105.537,
+              "EndTime": 105.78
+            },
+            {
+              "Text": "on",
+              "IsPartOfWord": false,
+              "StartTime": 105.78,
+              "EndTime": 105.95
+            },
+            {
+              "Text": "my",
+              "IsPartOfWord": false,
+              "StartTime": 105.95,
+              "EndTime": 106.363
+            },
+            {
+              "Text": "way",
+              "IsPartOfWord": false,
+              "StartTime": 106.363,
+              "EndTime": 109.731
+            }
+          ],
+          "StartTime": 105.537,
+          "EndTime": 109.731
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "Yeah,",
+              "IsPartOfWord": false,
+              "StartTime": 109.731,
+              "EndTime": 110.179
+            },
+            {
+              "Text": "yeah,",
+              "IsPartOfWord": false,
+              "StartTime": 110.179,
+              "EndTime": 110.555
+            },
+            {
+              "Text": "yeah,",
+              "IsPartOfWord": false,
+              "StartTime": 110.555,
+              "EndTime": 110.778
+            },
+            {
+              "Text": "yeah,",
+              "IsPartOfWord": false,
+              "StartTime": 110.778,
+              "EndTime": 111.144
+            },
+            {
+              "Text": "yeah",
+              "IsPartOfWord": false,
+              "StartTime": 111.144,
+              "EndTime": 111.835
+            }
+          ],
+          "StartTime": 109.731,
+          "EndTime": 111.835
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "I'm",
+              "IsPartOfWord": false,
+              "StartTime": 111.972,
+              "EndTime": 112.215
+            },
+            {
+              "Text": "on",
+              "IsPartOfWord": false,
+              "StartTime": 112.215,
+              "EndTime": 112.385
+            },
+            {
+              "Text": "my",
+              "IsPartOfWord": false,
+              "StartTime": 112.385,
+              "EndTime": 112.798
+            },
+            {
+              "Text": "way",
+              "IsPartOfWord": false,
+              "StartTime": 112.798,
+              "EndTime": 116.166
+            }
+          ],
+          "StartTime": 111.972,
+          "EndTime": 116.166
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "Hold",
+              "IsPartOfWord": false,
+              "StartTime": 116.156,
+              "EndTime": 116.548
+            },
+            {
+              "Text": "on,",
+              "IsPartOfWord": false,
+              "StartTime": 116.548,
+              "EndTime": 117.059
+            },
+            {
+              "Text": "hold",
+              "IsPartOfWord": false,
+              "StartTime": 117.361,
+              "EndTime": 117.785
+            },
+            {
+              "Text": "on",
+              "IsPartOfWord": false,
+              "StartTime": 117.785,
+              "EndTime": 118.378
+            }
+          ],
+          "StartTime": 116.156,
+          "EndTime": 118.378
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "I'm",
+              "IsPartOfWord": false,
+              "StartTime": 118.429,
+              "EndTime": 118.672
+            },
+            {
+              "Text": "on",
+              "IsPartOfWord": false,
+              "StartTime": 118.672,
+              "EndTime": 118.842
+            },
+            {
+              "Text": "my",
+              "IsPartOfWord": false,
+              "StartTime": 118.842,
+              "EndTime": 119.255
+            },
+            {
+              "Text": "way",
+              "IsPartOfWord": false,
+              "StartTime": 119.255,
+              "EndTime": 122.623
+            }
+          ],
+          "StartTime": 118.429,
+          "EndTime": 122.623
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "Yeah,",
+              "IsPartOfWord": false,
+              "StartTime": 122.592,
+              "EndTime": 123.04
+            },
+            {
+              "Text": "yeah,",
+              "IsPartOfWord": false,
+              "StartTime": 123.04,
+              "EndTime": 123.416
+            },
+            {
+              "Text": "yeah,",
+              "IsPartOfWord": false,
+              "StartTime": 123.416,
+              "EndTime": 123.639
+            },
+            {
+              "Text": "yeah,",
+              "IsPartOfWord": false,
+              "StartTime": 123.639,
+              "EndTime": 124.005
+            },
+            {
+              "Text": "yeah",
+              "IsPartOfWord": false,
+              "StartTime": 124.005,
+              "EndTime": 124.696
+            }
+          ],
+          "StartTime": 122.592,
+          "EndTime": 124.696
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "I'm",
+              "IsPartOfWord": false,
+              "StartTime": 124.806,
+              "EndTime": 125.054
+            },
+            {
+              "Text": "on",
+              "IsPartOfWord": false,
+              "StartTime": 125.054,
+              "EndTime": 125.237
+            },
+            {
+              "Text": "my",
+              "IsPartOfWord": false,
+              "StartTime": 125.237,
+              "EndTime": 125.813
+            },
+            {
+              "Text": "way",
+              "IsPartOfWord": false,
+              "StartTime": 125.813,
+              "EndTime": 128.88
+            }
+          ],
+          "StartTime": 124.806,
+          "EndTime": 128.88
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": true,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "Don't",
+              "IsPartOfWord": false,
+              "StartTime": 129.075,
+              "EndTime": 129.51
+            },
+            {
+              "Text": "you",
+              "IsPartOfWord": false,
+              "StartTime": 129.51,
+              "EndTime": 129.739
+            },
+            {
+              "Text": "want",
+              "IsPartOfWord": false,
+              "StartTime": 129.739,
+              "EndTime": 130.102
+            },
+            {
+              "Text": "me",
+              "IsPartOfWord": false,
+              "StartTime": 130.102,
+              "EndTime": 130.299
+            },
+            {
+              "Text": "like",
+              "IsPartOfWord": false,
+              "StartTime": 130.299,
+              "EndTime": 130.486
+            },
+            {
+              "Text": "I",
+              "IsPartOfWord": false,
+              "StartTime": 130.486,
+              "EndTime": 130.704
+            },
+            {
+              "Text": "want",
+              "IsPartOfWord": false,
+              "StartTime": 130.704,
+              "EndTime": 131.085
+            },
+            {
+              "Text": "you,",
+              "IsPartOfWord": false,
+              "StartTime": 131.085,
+              "EndTime": 131.488
+            },
+            {
+              "Text": "baby?",
+              "IsPartOfWord": false,
+              "StartTime": 131.488,
+              "EndTime": 132.306
+            }
+          ],
+          "StartTime": 129.075,
+          "EndTime": 132.306
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": true,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "Don't",
+              "IsPartOfWord": false,
+              "StartTime": 132.288,
+              "EndTime": 132.701
+            },
+            {
+              "Text": "you",
+              "IsPartOfWord": false,
+              "StartTime": 132.701,
+              "EndTime": 132.914
+            },
+            {
+              "Text": "need",
+              "IsPartOfWord": false,
+              "StartTime": 132.914,
+              "EndTime": 133.242
+            },
+            {
+              "Text": "me",
+              "IsPartOfWord": false,
+              "StartTime": 133.242,
+              "EndTime": 133.476
+            },
+            {
+              "Text": "like",
+              "IsPartOfWord": false,
+              "StartTime": 133.476,
+              "EndTime": 133.708
+            },
+            {
+              "Text": "I",
+              "IsPartOfWord": false,
+              "StartTime": 133.708,
+              "EndTime": 133.91
+            },
+            {
+              "Text": "need",
+              "IsPartOfWord": false,
+              "StartTime": 133.91,
+              "EndTime": 134.286
+            },
+            {
+              "Text": "you",
+              "IsPartOfWord": false,
+              "StartTime": 134.286,
+              "EndTime": 134.72
+            },
+            {
+              "Text": "now?",
+              "IsPartOfWord": false,
+              "StartTime": 134.72,
+              "EndTime": 135.218
+            }
+          ],
+          "StartTime": 132.288,
+          "EndTime": 135.218
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": true,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "Sleep",
+              "IsPartOfWord": false,
+              "StartTime": 135.381,
+              "EndTime": 135.884
+            },
+            {
+              "Text": "tomorrow",
+              "IsPartOfWord": false,
+              "StartTime": 135.884,
+              "EndTime": 136.685
+            },
+            {
+              "Text": "but",
+              "IsPartOfWord": false,
+              "StartTime": 136.685,
+              "EndTime": 136.89
+            },
+            {
+              "Text": "tonight",
+              "IsPartOfWord": false,
+              "StartTime": 136.89,
+              "EndTime": 137.521
+            },
+            {
+              "Text": "go",
+              "IsPartOfWord": false,
+              "StartTime": 137.521,
+              "EndTime": 137.891
+            },
+            {
+              "Text": "cra",
+              "IsPartOfWord": true,
+              "StartTime": 137.891,
+              "EndTime": 138.311
+            },
+            {
+              "Text": "zy",
+              "IsPartOfWord": false,
+              "StartTime": 138.311,
+              "EndTime": 138.724
+            }
+          ],
+          "StartTime": 135.381,
+          "EndTime": 138.724
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": true,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "All",
+              "IsPartOfWord": false,
+              "StartTime": 138.744,
+              "EndTime": 138.935
+            },
+            {
+              "Text": "you",
+              "IsPartOfWord": false,
+              "StartTime": 138.935,
+              "EndTime": 139.144
+            },
+            {
+              "Text": "gotta",
+              "IsPartOfWord": false,
+              "StartTime": 139.144,
+              "EndTime": 139.496
+            },
+            {
+              "Text": "do",
+              "IsPartOfWord": false,
+              "StartTime": 139.496,
+              "EndTime": 139.816
+            },
+            {
+              "Text": "is",
+              "IsPartOfWord": false,
+              "StartTime": 139.816,
+              "EndTime": 139.975
+            },
+            {
+              "Text": "just",
+              "IsPartOfWord": false,
+              "StartTime": 139.975,
+              "EndTime": 140.343
+            },
+            {
+              "Text": "meet",
+              "IsPartOfWord": false,
+              "StartTime": 140.343,
+              "EndTime": 140.754
+            },
+            {
+              "Text": "me",
+              "IsPartOfWord": false,
+              "StartTime": 140.754,
+              "EndTime": 141.189
+            },
+            {
+              "Text": "at",
+              "IsPartOfWord": false,
+              "StartTime": 141.189,
+              "EndTime": 141.581
+            },
+            {
+              "Text": "the",
+              "IsPartOfWord": false,
+              "StartTime": 141.581,
+              "EndTime": 141.98
+            }
+          ],
+          "StartTime": 138.744,
+          "EndTime": 141.98
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 141.968,
+              "EndTime": 142.357
+            },
+            {
+              "Text": "파트",
+              "IsPartOfWord": false,
+              "StartTime": 142.357,
+              "EndTime": 142.73
+            },
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 142.73,
+              "EndTime": 142.937
+            },
+            {
+              "Text": "파",
+              "IsPartOfWord": true,
+              "StartTime": 142.937,
+              "EndTime": 143.118
+            },
+            {
+              "Text": "트",
+              "IsPartOfWord": false,
+              "StartTime": 143.118,
+              "EndTime": 143.531
+            }
+          ],
+          "StartTime": 141.968,
+          "EndTime": 143.531
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 143.593,
+              "EndTime": 143.982
+            },
+            {
+              "Text": "파트",
+              "IsPartOfWord": false,
+              "StartTime": 143.982,
+              "EndTime": 144.355
+            },
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 144.355,
+              "EndTime": 144.562
+            },
+            {
+              "Text": "파",
+              "IsPartOfWord": true,
+              "StartTime": 144.562,
+              "EndTime": 144.743
+            },
+            {
+              "Text": "트",
+              "IsPartOfWord": false,
+              "StartTime": 144.743,
+              "EndTime": 145.156
+            }
+          ],
+          "StartTime": 143.593,
+          "EndTime": 145.156
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 145.174,
+              "EndTime": 145.563
+            },
+            {
+              "Text": "파트",
+              "IsPartOfWord": false,
+              "StartTime": 145.563,
+              "EndTime": 145.936
+            },
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 145.936,
+              "EndTime": 146.143
+            },
+            {
+              "Text": "파",
+              "IsPartOfWord": true,
+              "StartTime": 146.143,
+              "EndTime": 146.324
+            },
+            {
+              "Text": "트",
+              "IsPartOfWord": false,
+              "StartTime": 146.324,
+              "EndTime": 146.737
+            }
+          ],
+          "StartTime": 145.174,
+          "EndTime": 146.737
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "Just",
+              "IsPartOfWord": false,
+              "StartTime": 146.334,
+              "EndTime": 146.751
+            },
+            {
+              "Text": "meet",
+              "IsPartOfWord": false,
+              "StartTime": 146.751,
+              "EndTime": 147.168
+            },
+            {
+              "Text": "me",
+              "IsPartOfWord": false,
+              "StartTime": 147.168,
+              "EndTime": 147.584
+            },
+            {
+              "Text": "at",
+              "IsPartOfWord": false,
+              "StartTime": 147.584,
+              "EndTime": 148.001
+            },
+            {
+              "Text": "the",
+              "IsPartOfWord": false,
+              "StartTime": 148.001,
+              "EndTime": 148.418
+            }
+          ],
+          "StartTime": 146.334,
+          "EndTime": 148.418
+        },
+        "Background": [
+          {
+            "Syllables": [
+              {
+                "Text": "Uh,",
+                "IsPartOfWord": false,
+                "StartTime": 146.763,
+                "EndTime": 147.27
+              },
+              {
+                "Text": "uh-",
+                "IsPartOfWord": true,
+                "StartTime": 147.393,
+                "EndTime": 147.609
+              },
+              {
+                "Text": "huh,",
+                "IsPartOfWord": false,
+                "StartTime": 147.609,
+                "EndTime": 147.806
+              },
+              {
+                "Text": "uh-",
+                "IsPartOfWord": true,
+                "StartTime": 147.806,
+                "EndTime": 148.017
+              },
+              {
+                "Text": "huh",
+                "IsPartOfWord": false,
+                "StartTime": 148.017,
+                "EndTime": 148.395
+              }
+            ],
+            "StartTime": 146.763,
+            "EndTime": 148.395
+          }
+        ]
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 148.421,
+              "EndTime": 148.81
+            },
+            {
+              "Text": "파트",
+              "IsPartOfWord": false,
+              "StartTime": 148.81,
+              "EndTime": 149.183
+            },
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 149.183,
+              "EndTime": 149.39
+            },
+            {
+              "Text": "파",
+              "IsPartOfWord": true,
+              "StartTime": 149.39,
+              "EndTime": 149.571
+            },
+            {
+              "Text": "트",
+              "IsPartOfWord": false,
+              "StartTime": 149.571,
+              "EndTime": 149.984
+            }
+          ],
+          "StartTime": 148.421,
+          "EndTime": 149.984
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 150.049,
+              "EndTime": 150.438
+            },
+            {
+              "Text": "파트",
+              "IsPartOfWord": false,
+              "StartTime": 150.438,
+              "EndTime": 150.811
+            },
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 150.811,
+              "EndTime": 151.018
+            },
+            {
+              "Text": "파",
+              "IsPartOfWord": true,
+              "StartTime": 151.018,
+              "EndTime": 151.199
+            },
+            {
+              "Text": "트",
+              "IsPartOfWord": false,
+              "StartTime": 151.199,
+              "EndTime": 151.612
+            }
+          ],
+          "StartTime": 150.049,
+          "EndTime": 151.612
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 151.639,
+              "EndTime": 152.028
+            },
+            {
+              "Text": "파트",
+              "IsPartOfWord": false,
+              "StartTime": 152.028,
+              "EndTime": 152.401
+            },
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 152.401,
+              "EndTime": 152.608
+            },
+            {
+              "Text": "파",
+              "IsPartOfWord": true,
+              "StartTime": 152.608,
+              "EndTime": 152.789
+            },
+            {
+              "Text": "트",
+              "IsPartOfWord": false,
+              "StartTime": 152.789,
+              "EndTime": 153.202
+            }
+          ],
+          "StartTime": 151.639,
+          "EndTime": 153.202
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": true,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "Just",
+              "IsPartOfWord": false,
+              "StartTime": 152.736,
+              "EndTime": 153.158
+            },
+            {
+              "Text": "meet",
+              "IsPartOfWord": false,
+              "StartTime": 153.158,
+              "EndTime": 153.58
+            },
+            {
+              "Text": "me",
+              "IsPartOfWord": false,
+              "StartTime": 153.58,
+              "EndTime": 154.001
+            },
+            {
+              "Text": "at",
+              "IsPartOfWord": false,
+              "StartTime": 154.001,
+              "EndTime": 154.423
+            },
+            {
+              "Text": "the",
+              "IsPartOfWord": false,
+              "StartTime": 154.423,
+              "EndTime": 154.845
+            }
+          ],
+          "StartTime": 152.736,
+          "EndTime": 154.845
+        },
+        "Background": [
+          {
+            "Syllables": [
+              {
+                "Text": "Uh,",
+                "IsPartOfWord": false,
+                "StartTime": 153.201,
+                "EndTime": 153.708
+              },
+              {
+                "Text": "uh-",
+                "IsPartOfWord": true,
+                "StartTime": 153.831,
+                "EndTime": 154.047
+              },
+              {
+                "Text": "huh,",
+                "IsPartOfWord": false,
+                "StartTime": 154.047,
+                "EndTime": 154.244
+              },
+              {
+                "Text": "uh-",
+                "IsPartOfWord": true,
+                "StartTime": 154.244,
+                "EndTime": 154.455
+              },
+              {
+                "Text": "huh",
+                "IsPartOfWord": false,
+                "StartTime": 154.455,
+                "EndTime": 154.833
+              }
+            ],
+            "StartTime": 153.201,
+            "EndTime": 154.833
+          }
+        ]
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 154.847,
+              "EndTime": 155.236
+            },
+            {
+              "Text": "파트",
+              "IsPartOfWord": false,
+              "StartTime": 155.236,
+              "EndTime": 155.609
+            },
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 155.609,
+              "EndTime": 155.816
+            },
+            {
+              "Text": "파",
+              "IsPartOfWord": true,
+              "StartTime": 155.816,
+              "EndTime": 155.997
+            },
+            {
+              "Text": "트",
+              "IsPartOfWord": false,
+              "StartTime": 155.997,
+              "EndTime": 156.41
+            }
+          ],
+          "StartTime": 154.847,
+          "EndTime": 156.41
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 156.449,
+              "EndTime": 156.838
+            },
+            {
+              "Text": "파트",
+              "IsPartOfWord": false,
+              "StartTime": 156.838,
+              "EndTime": 157.211
+            },
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 157.211,
+              "EndTime": 157.418
+            },
+            {
+              "Text": "파",
+              "IsPartOfWord": true,
+              "StartTime": 157.418,
+              "EndTime": 157.599
+            },
+            {
+              "Text": "트",
+              "IsPartOfWord": false,
+              "StartTime": 157.599,
+              "EndTime": 158.012
+            }
+          ],
+          "StartTime": 156.449,
+          "EndTime": 158.012
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 158.063,
+              "EndTime": 158.452
+            },
+            {
+              "Text": "파트",
+              "IsPartOfWord": false,
+              "StartTime": 158.452,
+              "EndTime": 158.825
+            },
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 158.825,
+              "EndTime": 159.032
+            },
+            {
+              "Text": "파",
+              "IsPartOfWord": true,
+              "StartTime": 159.032,
+              "EndTime": 159.213
+            },
+            {
+              "Text": "트",
+              "IsPartOfWord": false,
+              "StartTime": 159.213,
+              "EndTime": 159.626
+            }
+          ],
+          "StartTime": 158.063,
+          "EndTime": 159.626
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": true,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "Just",
+              "IsPartOfWord": false,
+              "StartTime": 159.162,
+              "EndTime": 159.586
+            },
+            {
+              "Text": "meet",
+              "IsPartOfWord": false,
+              "StartTime": 159.586,
+              "EndTime": 160.01
+            },
+            {
+              "Text": "me",
+              "IsPartOfWord": false,
+              "StartTime": 160.01,
+              "EndTime": 160.435
+            },
+            {
+              "Text": "at",
+              "IsPartOfWord": false,
+              "StartTime": 160.435,
+              "EndTime": 160.859
+            },
+            {
+              "Text": "the",
+              "IsPartOfWord": false,
+              "StartTime": 160.859,
+              "EndTime": 161.283
+            }
+          ],
+          "StartTime": 159.162,
+          "EndTime": 161.283
+        },
+        "Background": [
+          {
+            "Syllables": [
+              {
+                "Text": "Uh,",
+                "IsPartOfWord": false,
+                "StartTime": 159.635,
+                "EndTime": 160.142
+              },
+              {
+                "Text": "uh-",
+                "IsPartOfWord": true,
+                "StartTime": 160.265,
+                "EndTime": 160.481
+              },
+              {
+                "Text": "huh,",
+                "IsPartOfWord": false,
+                "StartTime": 160.481,
+                "EndTime": 160.678
+              },
+              {
+                "Text": "uh-",
+                "IsPartOfWord": true,
+                "StartTime": 160.678,
+                "EndTime": 160.889
+              },
+              {
+                "Text": "huh",
+                "IsPartOfWord": false,
+                "StartTime": 160.889,
+                "EndTime": 161.267
+              }
+            ],
+            "StartTime": 159.635,
+            "EndTime": 161.267
+          }
+        ]
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 161.286,
+              "EndTime": 161.675
+            },
+            {
+              "Text": "파트",
+              "IsPartOfWord": false,
+              "StartTime": 161.675,
+              "EndTime": 162.048
+            },
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 162.048,
+              "EndTime": 162.255
+            },
+            {
+              "Text": "파",
+              "IsPartOfWord": true,
+              "StartTime": 162.255,
+              "EndTime": 162.436
+            },
+            {
+              "Text": "트",
+              "IsPartOfWord": false,
+              "StartTime": 162.436,
+              "EndTime": 162.849
+            }
+          ],
+          "StartTime": 161.286,
+          "EndTime": 162.849
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 162.905,
+              "EndTime": 163.294
+            },
+            {
+              "Text": "파트",
+              "IsPartOfWord": false,
+              "StartTime": 163.294,
+              "EndTime": 163.667
+            },
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 163.667,
+              "EndTime": 163.874
+            },
+            {
+              "Text": "파",
+              "IsPartOfWord": true,
+              "StartTime": 163.874,
+              "EndTime": 164.055
+            },
+            {
+              "Text": "트",
+              "IsPartOfWord": false,
+              "StartTime": 164.055,
+              "EndTime": 164.468
+            }
+          ],
+          "StartTime": 162.905,
+          "EndTime": 164.468
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 164.494,
+              "EndTime": 164.883
+            },
+            {
+              "Text": "파트",
+              "IsPartOfWord": false,
+              "StartTime": 164.883,
+              "EndTime": 165.256
+            },
+            {
+              "Text": "아",
+              "IsPartOfWord": true,
+              "StartTime": 165.256,
+              "EndTime": 165.463
+            },
+            {
+              "Text": "파",
+              "IsPartOfWord": true,
+              "StartTime": 165.463,
+              "EndTime": 165.644
+            },
+            {
+              "Text": "트",
+              "IsPartOfWord": false,
+              "StartTime": 165.644,
+              "EndTime": 166.057
+            }
+          ],
+          "StartTime": 164.494,
+          "EndTime": 166.057
+        }
+      },
+      {
+        "Type": "Vocal",
+        "OppositeAligned": false,
+        "Lead": {
+          "Syllables": [
+            {
+              "Text": "Uh,",
+              "IsPartOfWord": false,
+              "StartTime": 166.094,
+              "EndTime": 166.601
+            },
+            {
+              "Text": "uh-",
+              "IsPartOfWord": true,
+              "StartTime": 166.724,
+              "EndTime": 166.94
+            },
+            {
+              "Text": "huh,",
+              "IsPartOfWord": false,
+              "StartTime": 166.94,
+              "EndTime": 167.137
+            },
+            {
+              "Text": "uh-",
+              "IsPartOfWord": true,
+              "StartTime": 167.137,
+              "EndTime": 167.348
+            },
+            {
+              "Text": "huh",
+              "IsPartOfWord": false,
+              "StartTime": 167.348,
+              "EndTime": 167.796
+            }
+          ],
+          "StartTime": 166.094,
+          "EndTime": 167.796
+        }
+      }
+    ]
+  }
